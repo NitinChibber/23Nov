@@ -1,2 +1,4 @@
 credentials
 data/
+*.txt
+.gitignore'
